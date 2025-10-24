@@ -293,16 +293,6 @@
                   </svg>
                 </div>
               </li>
-              <li class="flex justify-between items-center my-2">
-                <span>
-                  <a target="_blank" class="text-footer-text" href="https://netendersholding.teamtailor.com/">Careers Center</a>
-                </span>
-                <div class="ml-4">
-                  <svg width="7" height="6" viewBox="0 0 7 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M4.452 0.12L6.18 2.7L4.452 5.304H3.132L4.74 2.7L3.132 0.12H4.452ZM5.028 2.16V3.252H0.708V2.16H5.028Z" fill="#546BB1" />
-                  </svg>
-                </div>
-              </li>
             </ul>
 
           </div>
@@ -335,16 +325,7 @@
                 </svg>
               </div>
             </li>
-            <li class="flex justify-between items-center my-2">
-              <span>
-                <a target="_blank" class="text-footer-text" href="https://netendersholding.teamtailor.com/">Careers Center</a>
-              </span>
-              <div class="ml-4">
-                <svg width="7" height="6" viewBox="0 0 7 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M4.452 0.12L6.18 2.7L4.452 5.304H3.132L4.74 2.7L3.132 0.12H4.452ZM5.028 2.16V3.252H0.708V2.16H5.028Z" fill="#546BB1" />
-                </svg>
-              </div>
-            </li>
+            
           </ul>
 
         </div>

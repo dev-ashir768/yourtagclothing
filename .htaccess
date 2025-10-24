@@ -9,7 +9,7 @@ RewriteRule ^(.*)$ $1.php [L]
 RewriteCond %{REQUEST_URI} !^/(product|who-are-we|bulk-discounts)/?$ [NC]
 
 # Allow access to folders and their contents
-RewriteCond %{REQUEST_URI} !^/blank-apparel-accessories-c37029/ [NC]
+RewriteCond %{REQUEST_URI} !^/blank-apparel-accessories/ [NC]
 
 # Allow access to actual files and directories (CSS, JS, images, etc.)
 RewriteCond %{REQUEST_FILENAME} !-f

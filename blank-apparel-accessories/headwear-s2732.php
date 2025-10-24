@@ -107,7 +107,7 @@ include '../includes/header.php';
         <nav class="mt-4 mb-0 md:my-4 py-0 text-sm text-center md:text-lg md:text-left text-[#969696] !font-['montserrat-medium']" itemscope itemtype="http://schema.org/BreadcrumbList" aria-label="Breadcrumb">
           <ol class="list-none p-0 flex flex-wrap items-center">
             <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="">
-              <a itemprop="item" href="https://www.wordans.ca/">
+              <a itemprop="item" href="https://yourtagclothing.com/">
                 <span class='text-[#969696]' itemprop='name'>Home</span>
               </a>
               <meta itemprop="position" content="1" />
@@ -6607,12 +6607,12 @@ include '../includes/header.php';
       <div class='wrapper no-bs grid grid-cols-12 gap-8 my-8 text-lg text-justify'>
         <div class='col-span-12'>
           <p>
-          <p>When selling garments, your list of items on sale cannot be complete without headwear, and this is where <a href="https://www.wordans.ca/" target="_blank">Wordans</a> comes in handy. Wordans provides retailers with wholesale garments. Their products are sourced from multiple brands and are available in different styles for <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/headwear-s2732/kids-g10" target="_blank">children </a>and adults, making it the ideal place to purchase <strong>bulk headwear</strong>.</p>
+          <p>When selling garments, your list of items on sale cannot be complete without headwear, and this is where <a href="https://yourtagclothing.com/" target="_blank">yourtagclothing</a> comes in handy. yourtagclothing provides retailers with wholesale garments. Their products are sourced from multiple brands and are available in different styles for <a href="#" target="_blank">children </a>and adults, making it the ideal place to purchase <strong>bulk headwear</strong>.</p>
           </p>
 
           <section class='content content-container row' id='' x-data='{ isExpanded: true, isCompact: true }'>
             <div @click='isExpanded = !isExpanded' class='flex items-center cursor-pointer'>
-              <h2 class="mt-0 title- text-xl mb-0 *:!text-dark-blue !text-dark-blue font-bold md:text-2xl xl:text-3xl " :class="isCompact &amp;&amp; &#39;text-2xl mt-2&#39;">Low-Cost Headwear Available in Bulk at Wordans</h2>
+              <h2 class="mt-0 title- text-xl mb-0 *:!text-dark-blue !text-dark-blue font-bold md:text-2xl xl:text-3xl " :class="isCompact &amp;&amp; &#39;text-2xl mt-2&#39;">Low-Cost Headwear Available in Bulk at yourtagclothing</h2>
               <div class='flex items-center ml-auto' x-cloak='true' x-show='!isExpanded'>
                 <svg width="25" height="25" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <circle cx="15.994" cy="16.0297" r="15.1801" transform="rotate(90 15.994 16.0297)" fill="#000E3A" />
@@ -6630,21 +6630,21 @@ include '../includes/header.php';
             <hr class='horizontal-line'>
             <div :class='!isExpanded ? &#39;hidden&#39; : &#39;block&#39;; isCompact ? &#39;mt-2&#39; : &#39;mt-8&#39;' class='section-content' style='content-visibility: auto;'>
               <p>
-              <p>At Wordans, we stock a wide array of headwear styles and designs for the entire family. Below are the common types.</p>
+              <p>At yourtagclothing, we stock a wide array of headwear styles and designs for the entire family. Below are the common types.</p>
               </p>
               <p>
               <ul>
                 <li>
-                  <strong>Caps: </strong>Wordans provides <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/caps-s21750" target="_blank">caps</a> in various designs, sizes, and colours to suit clients' diverse needs. We also have adjustable caps, which are popular for allowing wearers to adjust the size for the best fit. These include <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/snapback-s23038" target="_blank">snapback</a> and <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/mesh-s21790" target="_blank">mesh</a> caps.
+                  <strong>Caps: </strong>yourtagclothing provides <a href="#" target="_blank">caps</a> in various designs, sizes, and colours to suit clients' diverse needs. We also have adjustable caps, which are popular for allowing wearers to adjust the size for the best fit. These include <a href="#" target="_blank">snapback</a> and <a href="#" target="_blank">mesh</a> caps.
                 </li>
                 <li>
-                  <strong>Flat Bills: </strong>Flat bill hats were quite popular in the 1990s but lost their popularity in the early 2000s. Like many other fashion trends, however, the flat bill regained popularity. These hats are versatile and come in different designs. At Wordans, we provide flat bill hats in different sizes and from some of the best brands like Yupoong.
+                  <strong>Flat Bills: </strong>Flat bill hats were quite popular in the 1990s but lost their popularity in the early 2000s. Like many other fashion trends, however, the flat bill regained popularity. These hats are versatile and come in different designs. At yourtagclothing, we provide flat bill hats in different sizes and from some of the best brands like Yupoong.
                 </li>
                 <li>
-                  <strong>Bucket Hats: </strong>A particularly popular design right now. <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/bucket-hats-s43638" target="_blank">Bucket hats</a> are practical, seeing as they work as sun hats, and they also look great.
+                  <strong>Bucket Hats: </strong>A particularly popular design right now. <a href="#" target="_blank">Bucket hats</a> are practical, seeing as they work as sun hats, and they also look great.
                 </li>
                 <li>
-                  <strong>Plenty More Besides: </strong>Apart from these hat styles, the platform also offers women, children, and men various other head accessories, including <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/headbands-s23237" target="_blank">headbands</a>, <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/scarves-s2733" target="_blank">scarves</a>, and <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/visor-s21876" target="_blank">visors</a>.
+                  <strong>Plenty More Besides: </strong>Apart from these hat styles, the platform also offers women, children, and men various other head accessories, including <a href="#" target="_blank">headbands</a>, <a href="#" target="_blank">scarves</a>, and <a href="#" target="_blank">visors</a>.
                 </li>
               </ul>
               </p>
@@ -6654,7 +6654,7 @@ include '../includes/header.php';
 
           <section class='content content-container row' id='' x-data='{ isExpanded: true, isCompact: true }'>
             <div @click='isExpanded = !isExpanded' class='flex items-center cursor-pointer'>
-              <h2 class="mt-0 title- text-xl mb-0 *:!text-dark-blue !text-dark-blue font-bold md:text-2xl xl:text-3xl " :class="isCompact &amp;&amp; &#39;text-2xl mt-2&#39;">Always Expect Competitive Prices from Wordans</h2>
+              <h2 class="mt-0 title- text-xl mb-0 *:!text-dark-blue !text-dark-blue font-bold md:text-2xl xl:text-3xl " :class="isCompact &amp;&amp; &#39;text-2xl mt-2&#39;">Always Expect Competitive Prices from yourtagclothing</h2>
               <div class='flex items-center ml-auto' x-cloak='true' x-show='!isExpanded'>
                 <svg width="25" height="25" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <circle cx="15.994" cy="16.0297" r="15.1801" transform="rotate(90 15.994 16.0297)" fill="#000E3A" />
@@ -6672,10 +6672,10 @@ include '../includes/header.php';
             <hr class='horizontal-line'>
             <div :class='!isExpanded ? &#39;hidden&#39; : &#39;block&#39;; isCompact ? &#39;mt-2&#39; : &#39;mt-8&#39;' class='section-content' style='content-visibility: auto;'>
               <p>
-              <p>Other than the wide array of styles, below are some other qualities you can expect from our products. One of the best things about purchasing headwear at Wordans is its favourable pricing. Generally, Wordans' headwear prices range between $5 to $20. So if you are looking for cheap headwear options, this is the place to go. These prices go even lower thanks to their frequent <strong>promos </strong>and <strong>discounts</strong>. We also provide extra discounts when buying bulk headwear.</p>
+              <p>Other than the wide array of styles, below are some other qualities you can expect from our products. One of the best things about purchasing headwear at yourtagclothing is its favourable pricing. Generally, yourtagclothing' headwear prices range between $5 to $20. So if you are looking for cheap headwear options, this is the place to go. These prices go even lower thanks to their frequent <strong>promos </strong>and <strong>discounts</strong>. We also provide extra discounts when buying bulk headwear.</p>
               </p>
               <p>
-              <p>Wordans features wholesale headwear from reputable brands like <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/champion-b21311/headwear-s2732" target="_blank">Champion</a>, <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/flexfit-b16294/headwear-s2732" target="_blank">Flexfit</a>, <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/puma-golf-b43116/headwear-s2732" target="_blank">Puma Golf</a>, and <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/yupoong-b16316/headwear-s2732" target="_blank">Yupoong</a>. The Wordans website allows you to search for items by brand, making it easy to search for wholesale headwear from your favourite brands. By sourcing your products from different brands, you're guaranteed to provide your customers with a myriad of design and colour options. You'll get multiple colours and tone combinations.</p>
+              <p>yourtagclothing features wholesale headwear from reputable brands like <a href="#" target="_blank">Champion</a>, <a href="#" target="_blank">Flexfit</a>, <a href="#" target="_blank">Puma Golf</a>, and <a href="#" target="_blank">Yupoong</a>. The yourtagclothing website allows you to search for items by brand, making it easy to search for wholesale headwear from your favourite brands. By sourcing your products from different brands, you're guaranteed to provide your customers with a myriad of design and colour options. You'll get multiple colours and tone combinations.</p>
               </p>
 
             </div>
@@ -6701,10 +6701,10 @@ include '../includes/header.php';
             <hr class='horizontal-line'>
             <div :class='!isExpanded ? &#39;hidden&#39; : &#39;block&#39;; isCompact ? &#39;mt-2&#39; : &#39;mt-8&#39;' class='section-content' style='content-visibility: auto;'>
               <p>
-              <p>Our site also offers bulk headwear in various fabrics. These include: polyester, acrylic, cotton, and brushed cotton. These materials are chosen depending on their durability, aesthetic appeal, and popularity among clients. Wordans also guarantees high quality with all its products. We understand the market and the needs of clients. Therefore, we produce products that clients will love and review positively. For this reason, Wordans boasts numerous positive reviews on trusted platforms.</p>
+              <p>Our site also offers bulk headwear in various fabrics. These include: polyester, acrylic, cotton, and brushed cotton. These materials are chosen depending on their durability, aesthetic appeal, and popularity among clients. yourtagclothing also guarantees high quality with all its products. We understand the market and the needs of clients. Therefore, we produce products that clients will love and review positively. For this reason, yourtagclothing boasts numerous positive reviews on trusted platforms.</p>
               </p>
               <p>
-              <p>It is worth mentioning that some products at Wordans are blank apparel, making them ideal for customers who want to brand and print them to fit their business, clientele, and purpose. You can also purchase the products for special events as part of your branding goals. We understand the importance of coordination for work or pleasure, hence our range of products.</p>
+              <p>It is worth mentioning that some products at yourtagclothing are blank apparel, making them ideal for customers who want to brand and print them to fit their business, clientele, and purpose. You can also purchase the products for special events as part of your branding goals. We understand the importance of coordination for work or pleasure, hence our range of products.</p>
               </p>
 
             </div>

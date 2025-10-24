@@ -108,7 +108,7 @@ include '../includes/header.php';
         <nav class="mt-4 mb-0 md:my-4 py-0 text-sm text-center md:text-lg md:text-left text-[#969696] !font-['montserrat-medium']" itemscope itemtype="http://schema.org/BreadcrumbList" aria-label="Breadcrumb">
           <ol class="list-none p-0 flex flex-wrap items-center">
             <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="">
-              <a itemprop="item" href="https://www.wordans.ca/">
+              <a itemprop="item" href="https://yourtagclothing.com/">
                 <span class='text-[#969696]' itemprop='name'>Home</span>
               </a>
               <meta itemprop="position" content="1" />
@@ -7081,7 +7081,7 @@ include '../includes/header.php';
       <div class='wrapper no-bs grid grid-cols-12 gap-8 my-8 text-lg text-justify'>
         <div class='col-span-12'>
           <p>
-          <p><a href="https://www.wordans.ca/" target="_blank">Wordans</a> is a textile company that provides wholesale jackets in a variety of styles. We deliver internationally, and our website is available in multiple languages. Among others, we sell jackets in Canada, the Netherlands, France, and Switzerland. This makes it possible for many people, regardless of country of origin, to get introduced to our appealing jackets. Besides that, our jackets are available in multiple colours, styles, and sizes. Here are some more reasons you want to get your <strong>great-value</strong> <strong>jackets</strong> from Wordans: </p>
+          <p><a href="https://yourtagclothing.com/" target="_blank">yourtagclothing</a> is a textile company that provides wholesale jackets in a variety of styles. We deliver internationally, and our website is available in multiple languages. Among others, we sell jackets in Canada, the Netherlands, France, and Switzerland. This makes it possible for many people, regardless of country of origin, to get introduced to our appealing jackets. Besides that, our jackets are available in multiple colours, styles, and sizes. Here are some more reasons you want to get your <strong>great-value</strong> <strong>jackets</strong> from yourtagclothing: </p>
           </p>
 
           <section class='content content-container row' id='' x-data='{ isExpanded: true, isCompact: true }'>
@@ -7104,10 +7104,10 @@ include '../includes/header.php';
             <hr class='horizontal-line'>
             <div :class='!isExpanded ? &#39;hidden&#39; : &#39;block&#39;; isCompact ? &#39;mt-2&#39; : &#39;mt-8&#39;' class='section-content' style='content-visibility: auto;'>
               <p>
-              <p>At Wordans, we aim to provide a selection that caters to everyone. We sell sizes from <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/jackets-s3669/xs-x7" target="_blank">XS</a> up to <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/jackets-s3669/5xl-x11" target="_blank">5XL</a>, and have a <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/jackets-s3669/kids-g10" target="_blank">children's collection</a>. Check out our size guide to see which size is right for you. Besides that, we offer our wholesale jackets in several styles. A fabulous <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/vests-s37031" target="_blank">bodywarmer</a> or <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/denim-s37028" target="_blank">denim jacket </a>in the summer, or rather a <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/rain-jackets-s22898" target="_blank">rain jacket</a> in the fall? One of the most popular styles is the <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/3-in-1-s22901" target="_blank">3-in-1 jacket</a>, which consists of two separate pieces. You’ll have an inner lightweight mid-layer and an outer waterproof shell. It’s possible to wear the pieces separately, but you can still choose to wear both of them at the same time. This style of jacket is ideal for people living in places with harsh winters and changeable weather. Finding the right jackets in Canada can be a challenge because the weather is very different by area and season, so we provide a wide range.</p>
+              <p>At yourtagclothing, we aim to provide a selection that caters to everyone. We sell sizes from <a href="javascript:;" target="_blank">XS</a> up to <a href="javascript:;" target="_blank">5XL</a>, and have a <a href="javascript:;" target="_blank">children's collection</a>. Check out our size guide to see which size is right for you. Besides that, we offer our wholesale jackets in several styles. A fabulous <a href="javascript:;" target="_blank">bodywarmer</a> or <a href="javascript:;" target="_blank">denim jacket </a>in the summer, or rather a <a href="javascript:;" target="_blank">rain jacket</a> in the fall? One of the most popular styles is the <a href="javascript:;" target="_blank">3-in-1 jacket</a>, which consists of two separate pieces. You’ll have an inner lightweight mid-layer and an outer waterproof shell. It’s possible to wear the pieces separately, but you can still choose to wear both of them at the same time. This style of jacket is ideal for people living in places with harsh winters and changeable weather. Finding the right jackets in Canada can be a challenge because the weather is very different by area and season, so we provide a wide range.</p>
               </p>
               <p>
-              <p>Would you prefer a <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/jackets-s3669/green-m15" target="_blank">green</a>, <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/jackets-s3669/black-m3" target="_blank">black</a> or <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/jackets-s3669/red-m24" target="_blank">red jacket</a>? We have a great range of colours to choose from. In addition, our range of wholesale jackets offers you a choice of various materials. From <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/jackets-s3669/polyester-a145" target="_blank">polyester</a> and <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/jackets-s3669/poly-fleece-a454" target="_blank">poly fleece</a> to <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/jackets-s3669/nylon-a298" target="_blank">nylon</a>, you have plenty of options. When you click on a product, you'll see comprehensive lists of materials and features, for example if the jacket has an inside pocket. This way you know exactly what you're ordering. It's especially useful when you are planning to order in bulk.</p>
+              <p>Would you prefer a <a href="javascript:;" target="_blank">green</a>, <a href="javascript:;" target="_blank">black</a> or <a href="javascript:;" target="_blank">red jacket</a>? We have a great range of colours to choose from. In addition, our range of wholesale jackets offers you a choice of various materials. From <a href="javascript:;" target="_blank">polyester</a> and <a href="javascript:;" target="_blank">poly fleece</a> to <a href="javascript:;" target="_blank">nylon</a>, you have plenty of options. When you click on a product, you'll see comprehensive lists of materials and features, for example if the jacket has an inside pocket. This way you know exactly what you're ordering. It's especially useful when you are planning to order in bulk.</p>
               </p>
 
             </div>
@@ -7133,10 +7133,10 @@ include '../includes/header.php';
             <hr class='horizontal-line'>
             <div :class='!isExpanded ? &#39;hidden&#39; : &#39;block&#39;; isCompact ? &#39;mt-2&#39; : &#39;mt-8&#39;' class='section-content' style='content-visibility: auto;'>
               <p>
-              <p>Our jackets do not have a print, and some jackets have removable labels. This makes them extremely suitable for B2B. This is because it allows you to attach your own label to your jacket. What you can also do is print your logo, a drawing, or a piece of text on the jacket(s). So you can make your own jacket for your store. Or you can create a personalized jacket for your hockey team with one of Wordans’ sports jackets.</p>
+              <p>Our jackets do not have a print, and some jackets have removable labels. This makes them extremely suitable for B2B. This is because it allows you to attach your own label to your jacket. What you can also do is print your logo, a drawing, or a piece of text on the jacket(s). So you can make your own jacket for your store. Or you can create a personalized jacket for your hockey team with one of yourtagclothing sports jackets.</p>
               </p>
               <p>
-              <p>Moreover, if you purchase our jackets in bulk, you benefit from substantial discounts, so you can make a profit. The quality is not lost, but you get a discount– a win-win situation. When you click on a product from Wordans, you have the option to see the full cost summary, how many pieces are still in stock, and what quantity you need to get a bigger discount.</p>
+              <p>Moreover, if you purchase our jackets in bulk, you benefit from substantial discounts, so you can make a profit. The quality is not lost, but you get a discount– a win-win situation. When you click on a product from yourtagclothing, you have the option to see the full cost summary, how many pieces are still in stock, and what quantity you need to get a bigger discount.</p>
               </p>
 
             </div>
@@ -7162,17 +7162,17 @@ include '../includes/header.php';
             <hr class='horizontal-line'>
             <div :class='!isExpanded ? &#39;hidden&#39; : &#39;block&#39;; isCompact ? &#39;mt-2&#39; : &#39;mt-8&#39;' class='section-content' style='content-visibility: auto;'>
               <p>
-              <p>At <a href="https://www.wordans.ca/" target="_blank">Wordans</a>, you’ll find cheap jackets from many well-known and highly respected brands. These include <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/champion-b21311/jackets-s3669" target="_blank">Champion</a>, <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/marmot-b22046/jackets-s3669" target="_blank">Marmot</a>, <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/harriton-b22064/jackets-s3669" target="_blank">Harriton</a>, and <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/north-end-b22049/jackets-s3669" target="_blank">North End</a>. Another notable brand you’ll find on our site is <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/cx2-b44617/jackets-s3669" target="_blank">CX2</a>. This brand is famous for making rugged workwear, but it also has a wide range of sports jackets. As high-quality jackets, these can stand the most rigorous conditions.</p>
+              <p>At <a href="https://yourtagclothing.com/" target="_blank">yourtagclothing</a>, you’ll find cheap jackets from many well-known and highly respected brands. These include <a href="javascript:;" target="_blank">Champion</a>, <a href="javascript:;" target="_blank">Marmot</a>, <a href="javascript:;" target="_blank">Harriton</a>, and <a href="javascript:;" target="_blank">North End</a>. Another notable brand you’ll find on our site is <a href="javascript:;" target="_blank">CX2</a>. This brand is famous for making rugged workwear, but it also has a wide range of sports jackets. As high-quality jackets, these can stand the most rigorous conditions.</p>
               </p>
               <p>
-              <p>You can also purchase <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/canada-sportswear-b44615/jackets-s3669" target="_blank">jackets from Canada Sportswear</a>, a brand that is based in Toronto, Canada. This company is committed to local manufacturing in Canada. This assures buyers that the brand follows very strict manufacturing standards. For example, it doesn’t use sweatshops and treats its workers fairly. Besides these brands, we offer jackets from:</p>
+              <p>You can also purchase <a href="javascript:;" target="_blank">jackets from Canada Sportswear</a>, a brand that is based in Toronto, Canada. This company is committed to local manufacturing in Canada. This assures buyers that the brand follows very strict manufacturing standards. For example, it doesn’t use sweatshops and treats its workers fairly. Besides these brands, we offer jackets from:</p>
               </p>
               <p>
               <ul>
-                <li><a href="https://www.wordans.ca/blank-apparel-accessories-c37029/wild-river-b44620/jackets-s3669" target="_blank">Wild River</a></li>
-                <li><a href="https://www.wordans.ca/blank-apparel-accessories-c37029/threadfast-b23792/jackets-s3669" target="_blank">Threadfast</a></li>
-                <li><a href="https://www.wordans.ca/blank-apparel-accessories-c37029/team-365-b22052/jackets-s3669" target="_blank">Team 365</a></li>
-                <li><a href="https://www.wordans.ca/blank-apparel-accessories-c37029/core365-b16798/jackets-s3669" target="_blank">Core 365</a></li>
+                <li><a href="javascript:;" target="_blank">Wild River</a></li>
+                <li><a href="javascript:;" target="_blank">Threadfast</a></li>
+                <li><a href="javascript:;" target="_blank">Team 365</a></li>
+                <li><a href="javascript:;" target="_blank">Core 365</a></li>
               </ul>
               </p>
               <p>

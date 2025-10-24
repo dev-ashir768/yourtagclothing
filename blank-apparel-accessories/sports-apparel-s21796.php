@@ -93,7 +93,7 @@ include '../includes/header.php';
 
 <div id="pjax-container" itemscope="" itemprop="Product" itemtype="http://schema.org/Product">
   <span itemprop="name" content="Sports Apparel wholesale and retail. "></span>
-  <span itemprop="description" content="Choose Wordans for your sport apparel needs. We offer quality wholesale sports apparel at cheap prices"></span>
+  <span itemprop="description" content="Choose yourtagclothing for your sport apparel needs. We offer quality wholesale sports apparel at cheap prices"></span>
 
   <section id="marketplace-container" class="marketplace-container new-design marketplace-category content !p-0" data-categories="categories" data-brands="brands" data-gender="gender" data-style="type" data-colors="colors" data-options="options" data-weight="weight" data-grammage="grammage" data-style2="type2" data-search="q" data-composition="composition" data-warehouses="warehouse" data-sort="sort-order" data-select="select" data-per_page="per-page" data-page="page" itemscope="" itemprop="aggregateRating" itemtype="http://schema.org/AggregateRating">
     <span itemprop="ratingValue" content="5.0"></span>
@@ -107,7 +107,7 @@ include '../includes/header.php';
         <nav class="mt-4 mb-0 md:my-4 py-0 text-sm text-center md:text-lg md:text-left text-[#969696] !font-['montserrat-medium']" itemscope itemtype="http://schema.org/BreadcrumbList" aria-label="Breadcrumb">
           <ol class="list-none p-0 flex flex-wrap items-center">
             <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="">
-              <a itemprop="item" href="https://www.wordans.ca/">
+              <a itemprop="item" href="https://yourtagclothing.com/">
                 <span class='text-[#969696]' itemprop='name'>Home</span>
               </a>
               <meta itemprop="position" content="1" />
@@ -7104,10 +7104,10 @@ include '../includes/header.php';
             <hr class='horizontal-line'>
             <div :class='!isExpanded ? &#39;hidden&#39; : &#39;block&#39;; isCompact ? &#39;mt-2&#39; : &#39;mt-8&#39;' class='section-content' style='content-visibility: auto;'>
               <p>
-              <p>You'll be spoilt for choice when you shop for <a href="https://www.wordans.ca/" target="_blank">Wordans</a>' retail and <strong>wholesale</strong> <strong>sports apparel</strong>, ranging from <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/caps-s43515" target="_blank">caps</a> to <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/jackets-s43518" target="_blank">jackets</a>. This is beyond the more standard sports apparel that includes items like <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/polos-sports-t-shirts-s3667" target="_blank">t-shirts</a>, <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/pants-shorts-s21648" target="_blank">shorts</a>, and sport-specific apparel. Whether you're organizing a marathon, getting gifts for your staff, or just kitting out the family, our sports apparel can help get everyone up and about.</p>
+              <p>You'll be spoilt for choice when you shop for <a href="https://yourtagclothing.com/" target="_blank">yourtagclothing</a>' retail and <strong>wholesale</strong> <strong>sports apparel</strong>, ranging from <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/caps-s43515" target="_blank">caps</a> to <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/jackets-s43518" target="_blank">jackets</a>. This is beyond the more standard sports apparel that includes items like <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/polos-sports-t-shirts-s3667" target="_blank">t-shirts</a>, <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/pants-shorts-s21648" target="_blank">shorts</a>, and sport-specific apparel. Whether you're organizing a marathon, getting gifts for your staff, or just kitting out the family, our sports apparel can help get everyone up and about.</p>
               </p>
               <p>
-              <p>Football players and fans shopping at Wordans will be delighted by our huddle football game jerseys, even though they are primarily available in white for the moment. They are available as wholesale sportswear, as well as retail. Another compelling feature of our football game jerseys is that they are available in multiple sizes, ranging from S to XL. Our jerseys are from Champion, which offers customers some reassurance about durability, quality, and overall comfort. Our jerseys are as functional as they are stylish.</p>
+              <p>Football players and fans shopping at yourtagclothing will be delighted by our huddle football game jerseys, even though they are primarily available in white for the moment. They are available as wholesale sportswear, as well as retail. Another compelling feature of our football game jerseys is that they are available in multiple sizes, ranging from S to XL. Our jerseys are from Champion, which offers customers some reassurance about durability, quality, and overall comfort. Our jerseys are as functional as they are stylish.</p>
               </p>
 
             </div>
@@ -7133,7 +7133,7 @@ include '../includes/header.php';
             <hr class='horizontal-line'>
             <div :class='!isExpanded ? &#39;hidden&#39; : &#39;block&#39;; isCompact ? &#39;mt-2&#39; : &#39;mt-8&#39;' class='section-content' style='content-visibility: auto;'>
               <p>
-              <p>You'll want to shop at Wordans if you spend a considerable amount of time in the gym, jogging, or just working out in general. Our jogging apparel, which is available to both <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/sports-apparel-s21796/men-g27" target="_blank">men</a> and <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/sports-apparel-s21796/women-g24" target="_blank">women</a>, is great at keeping your muscles warm while also possessing cooling qualities that help you perform at a higher intensity for longer periods. We also have <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/sports-apparel-s21796/unisex-g4789" target="_blank">unisex sportswear</a> in stock, which is especially popular with businesses. At Wordans, we're particularly proud of our <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/polos-sports-t-shirts-s3667" target="_blank">polos and t-shirts</a>, which cater to men, women, and young people. We have t-shirts that are suitable for warm environments and t-shirts that are great for cooler environments. We have t-shirts that are absorbent, and t-shirts with great moisture-wicking properties.</p>
+              <p>You'll want to shop at yourtagclothing if you spend a considerable amount of time in the gym, jogging, or just working out in general. Our jogging apparel, which is available to both <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/sports-apparel-s21796/men-g27" target="_blank">men</a> and <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/sports-apparel-s21796/women-g24" target="_blank">women</a>, is great at keeping your muscles warm while also possessing cooling qualities that help you perform at a higher intensity for longer periods. We also have <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/sports-apparel-s21796/unisex-g4789" target="_blank">unisex sportswear</a> in stock, which is especially popular with businesses. At yourtagclothing, we're particularly proud of our <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/polos-sports-t-shirts-s3667" target="_blank">polos and t-shirts</a>, which cater to men, women, and young people. We have t-shirts that are suitable for warm environments and t-shirts that are great for cooler environments. We have t-shirts that are absorbent, and t-shirts with great moisture-wicking properties.</p>
               </p>
 
             </div>
@@ -7141,7 +7141,7 @@ include '../includes/header.php';
 
           <section class='content content-container row' id='' x-data='{ isExpanded: true, isCompact: true }'>
             <div @click='isExpanded = !isExpanded' class='flex items-center cursor-pointer'>
-              <h2 class="mt-0 title- text-xl mb-0 *:!text-dark-blue !text-dark-blue font-bold md:text-2xl xl:text-3xl " :class="isCompact &amp;&amp; &#39;text-2xl mt-2&#39;">Water-Resistant Jackets from Wordans Canada</h2>
+              <h2 class="mt-0 title- text-xl mb-0 *:!text-dark-blue !text-dark-blue font-bold md:text-2xl xl:text-3xl " :class="isCompact &amp;&amp; &#39;text-2xl mt-2&#39;">Water-Resistant Jackets from yourtagclothing Canada</h2>
               <div class='flex items-center ml-auto' x-cloak='true' x-show='!isExpanded'>
                 <svg width="25" height="25" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <circle cx="15.994" cy="16.0297" r="15.1801" transform="rotate(90 15.994 16.0297)" fill="#000E3A" />
@@ -7159,10 +7159,10 @@ include '../includes/header.php';
             <hr class='horizontal-line'>
             <div :class='!isExpanded ? &#39;hidden&#39; : &#39;block&#39;; isCompact ? &#39;mt-2&#39; : &#39;mt-8&#39;' class='section-content' style='content-visibility: auto;'>
               <p>
-              <p>Wordans has <strong>wholesale</strong>, <strong>cheap</strong>, and<strong> bulk sports apparel</strong> available to the public in both <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/sports-apparel-s21796/short-sleeves-a5893" target="_blank">short </a>and <a href="https://www.wordans.ca/blank-apparel-accessories-c37029/sports-apparel-s21796/long-sleeves-a5892" target="_blank">long sleeves</a>, which is also a prominent feature of our jackets. Our jackets, which are also great for social gatherings, come in a range of styles for men and women. You can shop through our stores for jackets that are made from 100 percent polyester, which ensures that you stay dry in the wettest of environments. These jackets are light, which is great, but they also have a jersey lining on the inside that will help keep you warm and dry.</p>
+              <p>Wordans has <strong>wholesale</strong>, <strong>cheap</strong>, and<strong> bulk sports apparel</strong> available to the public in both <a href="javascript:;" target="_blank">short </a>and <a href="javascript:;" target="_blank">long sleeves</a>, which is also a prominent feature of our jackets. Our jackets, which are also great for social gatherings, come in a range of styles for men and women. You can shop through our stores for jackets that are made from 100 percent polyester, which ensures that you stay dry in the wettest of environments. These jackets are light, which is great, but they also have a jersey lining on the inside that will help keep you warm and dry.</p>
               </p>
               <p>
-              <p>In extremely cold environments, it isn’t always enough to keep your body warm and dry, but you also need to find a jacket that will keep your head and ears warm. At Wordans, we have quarter-zipped, full-zipped, and heavy-duty cotton jackets that have a hood, along with insulated hooded jackets. Whether you're in the gym or hiking, at Wordans you'll always get the best brands and the best prices. </p>
+              <p>In extremely cold environments, it isn’t always enough to keep your body warm and dry, but you also need to find a jacket that will keep your head and ears warm. At yourtagclothing, we have quarter-zipped, full-zipped, and heavy-duty cotton jackets that have a hood, along with insulated hooded jackets. Whether you're in the gym or hiking, at yourtagclothing you'll always get the best brands and the best prices. </p>
               </p>
 
             </div>

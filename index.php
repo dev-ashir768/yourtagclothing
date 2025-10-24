@@ -53,7 +53,7 @@ include 'includes/header.php';
     <div class="flex flex-col gap-y-4 rounded-2xl md:grid md:col-span-4 md:grid-rows-2 md:whitespace-normal" style="margin-top: -2px;">
 
       <div class="relative">
-        <a href="/rabbit-skins-b17071/jerzees-b16792">
+        <a href="#">
           <picture>
             <source srcset="https://assets.wordans.ca/files/responsive_banners/2025/3/12/mobile/21889/21889_small.jpg?1759853296 1x, https://assets.wordans.ca/files/responsive_banners/2025/3/12/mobile/21889/21889_medium.jpg?1759853296 2x" media="(max-width: 450px)" />
             <source srcset="https://assets.wordans.ca/files/responsive_banners/2025/3/12/21889/21889_medium.jpg?1759853295 1x, https://assets.wordans.ca/files/responsive_banners/2025/3/12/21889/21889_big.jpg?1759853295 2x" media="(min-width: 450.1px) and (max-width: 1023px)" />
@@ -64,7 +64,7 @@ include 'includes/header.php';
       </div>
 
       <div class="relative">
-        <a onclick="if (DoOnce('banner_click/21825')) { if (typeof gtag !== 'undefined') { gtag('event', 'select_promotion', {'promotion_id': '21825', 'promotion_name': '', 'creative_slot': 'home_carrousel_slide_', 'promotion_image': '/files/responsive_banners/2025/3/12/21825/21825_original.png?1759485908', 'size_category': ''}); }; SendAnalytic('banner_click/21825'); jQuery.cookie('banner_clicked', '', { path: '/'}); };" href="/gildan-b34">
+        <a onclick="if (DoOnce('banner_click/21825')) { if (typeof gtag !== 'undefined') { gtag('event', 'select_promotion', {'promotion_id': '21825', 'promotion_name': '', 'creative_slot': 'home_carrousel_slide_', 'promotion_image': '/files/responsive_banners/2025/3/12/21825/21825_original.png?1759485908', 'size_category': ''}); }; SendAnalytic('banner_click/21825'); jQuery.cookie('banner_clicked', '', { path: '/'}); };" href="#">
           <picture>
             <source srcset="https://assets.wordans.ca/files/responsive_banners/2025/3/12/mobile/21825/21825_small.jpg?1759485909 1x, https://assets.wordans.ca/files/responsive_banners/2025/3/12/mobile/21825/21825_medium.jpg?1759485909 2x" media="(max-width: 450px)" />
             <source srcset="https://assets.wordans.ca/files/responsive_banners/2025/3/12/21825/21825_medium.jpg?1759485908 1x, https://assets.wordans.ca/files/responsive_banners/2025/3/12/21825/21825_big.jpg?1759485908 2x" media="(min-width: 450.1px) and (max-width: 1023px)" />
@@ -126,7 +126,7 @@ include 'includes/header.php';
   </div>
 
   <div class="grid grid-cols-2 gap-4 md:grid-cols-5">
-    <a class="relative overflow-hidden rounded-xl bg-[#E6E9F3] text-[#000E3A] group aspect-square text-center" onclick="if (DoOnce('homepage_banner_click/1')) { if (typeof gtag !== 'undefined') { gtag('event', 'select_content', {'content_type': 'homepage_banner', 'items': [{'id': 1, 'link': '/ropa-basica-complementos-c37029/con-capucha-s21819', 'text': 'Hoodies'}]}) }; SendAnalytic('homepage_banner_click/1'); jQuery.cookie('homepage_banner_clicked', 'Hoodies', { path: '/'}); };" href="/ropa-basica-complementos-c37029/con-capucha-s21819">
+    <a class="relative overflow-hidden rounded-xl bg-[#E6E9F3] text-[#000E3A] group aspect-square text-center" onclick="if (DoOnce('homepage_banner_click/1')) { if (typeof gtag !== 'undefined') { gtag('event', 'select_content', {'content_type': 'homepage_banner', 'items': [{'id': 1, 'link': '/ropa-basica-complementos-c37029/con-capucha-s21819', 'text': 'Hoodies'}]}) }; SendAnalytic('homepage_banner_click/1'); jQuery.cookie('homepage_banner_clicked', 'Hoodies', { path: '/'}); };" href="#">
       <picture>
         <source srcset="https://img.netenders.com/@wordans/files/homepage_banners/1/image_medium.png?width=155&amp;height=155&amp;timestamp=1749716125" media="(max-width: 450px)">
         <img class="rounded-xl max-w-full max-h-full object-cover group-hover:transform group-hover:scale-105 transition-transform duration-300 aspect-square" onload="if (DoOnce('homepage_banner_impression/1')) { SendAnalytic('homepage_banner_impression/1');  };" alt="" src="/assets/images/pink-medium.jpeg" />
@@ -134,7 +134,7 @@ include 'includes/header.php';
       <button class="absolute flex justify-center items-center text-xl font-bold rounded-xl !bg-white md:text-2xl !bg-opacity-80 w-[75%] max-h-[30px] top-[65%] left-2/4 -translate-x-2/4">
         <span>Hoodies</span>
       </button>
-    </a> <a class="relative overflow-hidden rounded-xl bg-[#E6E9F3] text-[#000E3A] group aspect-square text-center" onclick="if (DoOnce('homepage_banner_click/2')) { if (typeof gtag !== 'undefined') { gtag('event', 'select_content', {'content_type': 'homepage_banner', 'items': [{'id': 2, 'link': '/blank-apparel-accessories-c37029/t-shirts-s2729', 'text': 'T-Shirts'}]}) }; SendAnalytic('homepage_banner_click/2'); jQuery.cookie('homepage_banner_clicked', 'T-Shirts', { path: '/'}); };" href="/blank-apparel-accessories-c37029/t-shirts-s2729">
+    </a> <a class="relative overflow-hidden rounded-xl bg-[#E6E9F3] text-[#000E3A] group aspect-square text-center" onclick="if (DoOnce('homepage_banner_click/2')) { if (typeof gtag !== 'undefined') { gtag('event', 'select_content', {'content_type': 'homepage_banner', 'items': [{'id': 2, 'link': '/blank-apparel-accessories-c37029/t-shirts-s2729', 'text': 'T-Shirts'}]}) }; SendAnalytic('homepage_banner_click/2'); jQuery.cookie('homepage_banner_clicked', 'T-Shirts', { path: '/'}); };" href="#">
       <picture>
         <source srcset="https://img.netenders.com/@wordans/files/homepage_banners/2/image_medium.png?width=155&amp;height=155&amp;timestamp=1749716130" media="(max-width: 450px)">
         <img class="rounded-xl max-w-full max-h-full object-cover group-hover:transform group-hover:scale-105 transition-transform duration-300 aspect-square" onload="if (DoOnce('homepage_banner_impression/2')) { SendAnalytic('homepage_banner_impression/2');  };" alt="" src="https://assets.wordans.ca/files/homepage_banners/2/image_medium.png?1749716130" />
@@ -142,7 +142,7 @@ include 'includes/header.php';
       <button class="absolute flex justify-center items-center text-xl font-bold rounded-xl !bg-white md:text-2xl !bg-opacity-80 w-[75%] max-h-[30px] top-[65%] left-2/4 -translate-x-2/4">
         <span>T-Shirts</span>
       </button>
-    </a> <a class="relative overflow-hidden rounded-xl bg-[#E6E9F3] text-[#000E3A] group aspect-square text-center" onclick="if (DoOnce('homepage_banner_click/3')) { if (typeof gtag !== 'undefined') { gtag('event', 'select_content', {'content_type': 'homepage_banner', 'items': [{'id': 3, 'link': '/blank-apparel-accessories-c37029/bags-s2737', 'text': 'Bags'}]}) }; SendAnalytic('homepage_banner_click/3'); jQuery.cookie('homepage_banner_clicked', 'Bags', { path: '/'}); };" href="/blank-apparel-accessories-c37029/bags-s2737">
+    </a> <a class="relative overflow-hidden rounded-xl bg-[#E6E9F3] text-[#000E3A] group aspect-square text-center" onclick="if (DoOnce('homepage_banner_click/3')) { if (typeof gtag !== 'undefined') { gtag('event', 'select_content', {'content_type': 'homepage_banner', 'items': [{'id': 3, 'link': '/blank-apparel-accessories-c37029/bags-s2737', 'text': 'Bags'}]}) }; SendAnalytic('homepage_banner_click/3'); jQuery.cookie('homepage_banner_clicked', 'Bags', { path: '/'}); };" href="#">
       <picture>
         <source srcset="https://img.netenders.com/@wordans/files/homepage_banners/3/image_medium.png?width=155&amp;height=155&amp;timestamp=1749716136" media="(max-width: 450px)">
         <img class="rounded-xl max-w-full max-h-full object-cover group-hover:transform group-hover:scale-105 transition-transform duration-300 aspect-square" onload="if (DoOnce('homepage_banner_impression/3')) { SendAnalytic('homepage_banner_impression/3');  };" alt="" src="https://assets.wordans.ca/files/homepage_banners/3/image_medium.png?1749716136" />
@@ -150,7 +150,7 @@ include 'includes/header.php';
       <button class="absolute flex justify-center items-center text-xl font-bold rounded-xl !bg-white md:text-2xl !bg-opacity-80 w-[75%] max-h-[30px] top-[65%] left-2/4 -translate-x-2/4">
         <span>Bags</span>
       </button>
-    </a> <a class="relative overflow-hidden rounded-xl bg-[#E6E9F3] text-[#000E3A] group aspect-square text-center" onclick="if (DoOnce('homepage_banner_click/4')) { if (typeof gtag !== 'undefined') { gtag('event', 'select_content', {'content_type': 'homepage_banner', 'items': [{'id': 4, 'link': '/blank-apparel-accessories-c37029/headwear-s2732', 'text': 'Headwear'}]}) }; SendAnalytic('homepage_banner_click/4'); jQuery.cookie('homepage_banner_clicked', 'Headwear', { path: '/'}); };" href="/blank-apparel-accessories-c37029/headwear-s2732">
+    </a> <a class="relative overflow-hidden rounded-xl bg-[#E6E9F3] text-[#000E3A] group aspect-square text-center" onclick="if (DoOnce('homepage_banner_click/4')) { if (typeof gtag !== 'undefined') { gtag('event', 'select_content', {'content_type': 'homepage_banner', 'items': [{'id': 4, 'link': '/blank-apparel-accessories-c37029/headwear-s2732', 'text': 'Headwear'}]}) }; SendAnalytic('homepage_banner_click/4'); jQuery.cookie('homepage_banner_clicked', 'Headwear', { path: '/'}); };" href="#">
       <picture>
         <source srcset="https://img.netenders.com/@wordans/files/homepage_banners/4/image_medium.png?width=155&amp;height=155&amp;timestamp=1749716141" media="(max-width: 450px)">
         <img class="rounded-xl max-w-full max-h-full object-cover group-hover:transform group-hover:scale-105 transition-transform duration-300 aspect-square" onload="if (DoOnce('homepage_banner_impression/4')) { SendAnalytic('homepage_banner_impression/4');  };" alt="" src="https://assets.wordans.ca/files/homepage_banners/4/image_medium.png?1749716141" />
@@ -158,7 +158,7 @@ include 'includes/header.php';
       <button class="absolute flex justify-center items-center text-xl font-bold rounded-xl !bg-white md:text-2xl !bg-opacity-80 w-[75%] max-h-[30px] top-[65%] left-2/4 -translate-x-2/4">
         <span>Headwear</span>
       </button>
-    </a> <a class="relative overflow-hidden rounded-xl bg-[#E6E9F3] text-[#000E3A] group aspect-square text-center" onclick="if (DoOnce('homepage_banner_click/5')) { if (typeof gtag !== 'undefined') { gtag('event', 'select_content', {'content_type': 'homepage_banner', 'items': [{'id': 5, 'link': '/select/promo_roly_egotierpro_radsow', 'text': 'Clearance'}]}) }; SendAnalytic('homepage_banner_click/5'); jQuery.cookie('homepage_banner_clicked', 'Clearance', { path: '/'}); };" href="/select/promo_roly_egotierpro_radsow">
+    </a> <a class="relative overflow-hidden rounded-xl bg-[#E6E9F3] text-[#000E3A] group aspect-square text-center" onclick="if (DoOnce('homepage_banner_click/5')) { if (typeof gtag !== 'undefined') { gtag('event', 'select_content', {'content_type': 'homepage_banner', 'items': [{'id': 5, 'link': '/select/promo_roly_egotierpro_radsow', 'text': 'Clearance'}]}) }; SendAnalytic('homepage_banner_click/5'); jQuery.cookie('homepage_banner_clicked', 'Clearance', { path: '/'}); };" href="#">
       <picture>
         <source srcset="https://img.netenders.com/@wordans/files/homepage_banners/5/image_medium.png?width=155&amp;height=155&amp;timestamp=1749716517" media="(max-width: 450px)">
         <img class="rounded-xl max-w-full max-h-full object-cover group-hover:transform group-hover:scale-105 transition-transform duration-300 aspect-square" onload="if (DoOnce('homepage_banner_impression/5')) { SendAnalytic('homepage_banner_impression/5');  };" alt="" src="https://assets.wordans.ca/files/homepage_banners/5/image_medium.png?1749716517" />
