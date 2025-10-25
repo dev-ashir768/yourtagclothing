@@ -134,7 +134,7 @@ include '../includes/header.php';
 
 
 
-          <nav class="relative rounded-xl border border-none light-border md:border-solid md:bg-[#FAFBFD] mr-12 min-w-[241px] w-[241px]"
+          <nav class="relative rounded-xl border border-none light-border md:border-solid md:bg-[#FAFBFD] mr-12 min-w-[241px] w-[241px] md:!block hidden"
             x-data="{}"
             data-base-url="/product"
             id="product-filters">

@@ -33,8 +33,6 @@
   <meta content='/assets/images/logo.png' property='og:image'>
   <meta content='Wholesale Clothing and Accessories | yourtagclothing' property='og:title'>
   <meta content='Cheap wholesale products for everyone. Bulk discounts, no minimum. Buy at crazy wholesale prices.' property='og:description'>
-
-
   <meta content='en-ca' http-equiv='Content-Language'>
   <meta content='Cheap wholesale products for everyone. Bulk discounts, no minimum. Buy at crazy wholesale prices.' name='description'>
   <meta content='Copyright yourtagclothing - 2018' name='copyright'>
@@ -42,8 +40,6 @@
   <meta content='General' name='Rating'>
   <meta content='INDEX, FOLLOW, ALL' name='Robots'>
   <link rel="canonical" href='https://yourtagclothing.com/' />
-
-
 
 </head>
 
@@ -125,22 +121,6 @@
                 }
               </style>
 
-              <!-- <a ref="nofollow" class="!hidden whitespace-nowrap lg:!flex btn- h-[40px] px-8 justify-center group items-center hover:!text-darker-blue gradient-customize text-white" href="/customization">
-                <span class="flex mr-3 edit-icon">
-                  <svg width="19" height="19" viewbox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M4.36722 7.88537L7.88535 4.36723M18 18L15.0233 17.6693C14.6597 17.6289 14.4778 17.6086 14.3079 17.5536C14.1571 17.5048 14.0136 17.4358 13.8812 17.3486C13.7321 17.2502 13.6027 17.1209 13.344 16.8621L1.72863 5.24677C0.757123 4.27526 0.757122 2.70014 1.72863 1.72863C2.70013 0.757124 4.27525 0.757123 5.24676 1.72863L16.8621 13.344C17.1209 13.6027 17.2502 13.7321 17.3486 13.8812C17.4358 14.0136 17.5048 14.1571 17.5536 14.3079C17.6086 14.4778 17.6289 14.6597 17.6693 15.0233L18 18Z" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="group-hover:stroke-darker-blue transition-all duration-300"></path>
-                  </svg>
-                </span>
-                <span>Customization</span>
-              </a> -->
-              <!-- <a rel="nofollow" class="!hidden whitespace-nowrap lg:!flex btn- h-[40px] px-8 justify-center group items-center hover:!text-darker-blue !bg-[#E7F1FF] text-link" href="/order">
-                <span class="flex mr-3 tracking-icon">
-                  <svg width="18" height="16" viewbox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M10.6667 3.83337H12.6144C12.8182 3.83337 12.9201 3.83337 13.016 3.8564C13.1011 3.87681 13.1824 3.91048 13.2569 3.95617C13.341 4.00771 13.4131 4.07977 13.5572 4.2239L16.9428 7.60952C17.087 7.75364 17.159 7.82571 17.2106 7.9098C17.2562 7.98436 17.2899 8.06565 17.3103 8.15068C17.3334 8.24659 17.3334 8.3485 17.3334 8.55233V10.9167C17.3334 11.305 17.3334 11.4991 17.2699 11.6523C17.1853 11.8565 17.0231 12.0187 16.8189 12.1033C16.6658 12.1667 16.4716 12.1667 16.0834 12.1667M11.9167 12.1667H10.6667M10.6667 12.1667V4.00004C10.6667 3.06662 10.6667 2.59991 10.485 2.24339C10.3252 1.92979 10.0703 1.67482 9.75667 1.51503C9.40015 1.33337 8.93344 1.33337 8.00002 1.33337H3.33335C2.39993 1.33337 1.93322 1.33337 1.5767 1.51503C1.2631 1.67482 1.00813 1.92979 0.848343 2.24339C0.666687 2.59991 0.666687 3.06662 0.666687 4.00004V10.5C0.666687 11.4205 1.41288 12.1667 2.33335 12.1667M10.6667 12.1667H7.33335M7.33335 12.1667C7.33335 13.5474 6.21407 14.6667 4.83335 14.6667C3.45264 14.6667 2.33335 13.5474 2.33335 12.1667M7.33335 12.1667C7.33335 10.786 6.21407 9.66671 4.83335 9.66671C3.45264 9.66671 2.33335 10.786 2.33335 12.1667M16.0834 12.5834C16.0834 13.734 15.1506 14.6667 14 14.6667C12.8494 14.6667 11.9167 13.734 11.9167 12.5834C11.9167 11.4328 12.8494 10.5 14 10.5C15.1506 10.5 16.0834 11.4328 16.0834 12.5834Z" stroke="#1170FF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class=" group-hover:stroke-darker-blue transition-all duration-300"></path>
-                  </svg>
-                </span>
-                <span>Track Order</span>
-              </a> -->
               <div class="grid shrink-0 grid-cols-4 lg:grid-cols-3 gap-4 ml-8">
                 <!-- Mobile Search -->
                 <ul class="flex lg:!hidden m-0 p-0 list-none">
@@ -901,301 +881,100 @@
               </div>
               <hr class="!p-0 !m-0 horizontal-line">
 
-              <div class="flex p-6 hidden-guest">
-                <!-- Profile links -->
-                <div class="flex items-center justify-center mr-6 rounded-full w-14 h-14 bg-light-blue">
-                  <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M16.6668 17.5C16.6668 16.337 16.6668 15.7555 16.5233 15.2824C16.2001 14.217 15.3664 13.3834 14.3011 13.0602C13.828 12.9167 13.2465 12.9167 12.0835 12.9167H7.91683C6.75386 12.9167 6.17237 12.9167 5.69921 13.0602C4.63388 13.3834 3.8002 14.217 3.47703 15.2824C3.3335 15.7555 3.3335 16.337 3.3335 17.5M13.7502 6.25C13.7502 8.32107 12.0712 10 10.0002 10C7.92909 10 6.25016 8.32107 6.25016 6.25C6.25016 4.17893 7.92909 2.5 10.0002 2.5C12.0712 2.5 13.7502 4.17893 13.7502 6.25Z" stroke="#00228A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                  </svg>
-                </div>
-                <div class="flex flex-col">
-                  <div class="flex">
-                    <span class="font-bold text-dark-blue insert-username">
-                    </span>
-                  </div>
-                  <a rel="nofollow" href="/myaccount/orders">
-                    <span class="underline text-purple-">My Orders</span>
-                  </a>
-                </div>
-              </div>
-
-              <div class="flex flex-col p-6 hidden-user">
-                <button class="flex items-center justify-center px-6 font-bold text-white whitespace-nowrap btn- bg-light-purple" @click="$store.profile.loadModal(); $store.header.sideMenuOpen = false; $store.profile.loginModalOpen = !$store.profile.loginModalOpen">Log In</button>
-              </div>
-
-              <hr class="!p-0 !m-0 horizontal-line">
-
               <div class="flex flex-col p-6" x-data="{}">
-                <ul class="p-0 m-0 mt-6 list-none text-purple-">
+                <ul class="p-0 m-0 list-none text-purple-">
 
                   <li class="my-2">
-
-                    <div
-                      @click="
-                      $store.header.sideMenuOpen = false;
-                      $store.header.megaMenu['brands'] = true;
-                    "
+                    <a href="https://yourtagclothing.com/brands/wholesale-brands"
+                      @click="$store.header.sideMenuOpen = false;"
                       class="flex justify-between items-center font-semibold">
                       <span class="text-special">
                         Brands
                       </span>
-                      <svg width="18" height="18" viewbox="0 0 24 24" fill="none" version="1.1" id="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
-                        <defs id="defs1"></defs>
-                        <g transform="rotate(270 12 12)">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M 4.7,7.4260677 V 11.798326 L 12.029996,16.573932 19.3,11.798326 V 7.4260677 l -7.270004,4.3722583 z" fill="#334EA1" id="path1" style="stroke-width:0.182956"></path>
-                        </g>
-                      </svg>
-                    </div>
+                    </a>
                   </li>
 
                   <li class="my-2">
-
-                    <div
+                    <a href="/blank-apparel-accessories/t-shirts-s2729"
                       @click="
                       $store.header.sideMenuOpen = false;
-                      $store.header.megaMenu['t_shirts'] = true;
                     "
                       class="flex justify-between items-center font-semibold">
                       <span class="text-special">
                         T-Shirts
                       </span>
-                      <svg width="18" height="18" viewbox="0 0 24 24" fill="none" version="1.1" id="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
-                        <defs id="defs1"></defs>
-                        <g transform="rotate(270 12 12)">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M 4.7,7.4260677 V 11.798326 L 12.029996,16.573932 19.3,11.798326 V 7.4260677 l -7.270004,4.3722583 z" fill="#334EA1" id="path1" style="stroke-width:0.182956"></path>
-                        </g>
-                      </svg>
-                    </div>
-                  </li>
-                  <li class="my-2">
 
-                    <div
+                    </a>
+                  </li>
+
+                  <li class="my-2">
+                    <a
+                      href="/blank-apparel-accessories/sweats-fleece-s3668"
                       @click="
                       $store.header.sideMenuOpen = false;
-                      $store.header.megaMenu['sweats_fleece'] = true;
                     "
                       class="flex justify-between items-center font-semibold">
                       <span class="text-special">
                         Sweats &amp; Fleece
                       </span>
-                      <svg width="18" height="18" viewbox="0 0 24 24" fill="none" version="1.1" id="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
-                        <defs id="defs1"></defs>
-                        <g transform="rotate(270 12 12)">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M 4.7,7.4260677 V 11.798326 L 12.029996,16.573932 19.3,11.798326 V 7.4260677 l -7.270004,4.3722583 z" fill="#334EA1" id="path1" style="stroke-width:0.182956"></path>
-                        </g>
-                      </svg>
-                    </div>
+                    </a>
                   </li>
-                  <li class="my-2">
 
-                    <div
+                  <li class="my-2">
+                    <a
+                      href="/blank-apparel-accessories/sports-apparel-s21796"
                       @click="
                       $store.header.sideMenuOpen = false;
-                      $store.header.megaMenu['sports_apparel'] = true;
                     "
                       class="flex justify-between items-center font-semibold">
                       <span class="text-special">
                         Sports Apparel
                       </span>
-                      <svg width="18" height="18" viewbox="0 0 24 24" fill="none" version="1.1" id="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
-                        <defs id="defs1"></defs>
-                        <g transform="rotate(270 12 12)">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M 4.7,7.4260677 V 11.798326 L 12.029996,16.573932 19.3,11.798326 V 7.4260677 l -7.270004,4.3722583 z" fill="#334EA1" id="path1" style="stroke-width:0.182956"></path>
-                        </g>
-                      </svg>
-                    </div>
+                    </a>
                   </li>
-                  <li class="my-2">
 
-                    <div
+                  <li class="my-2">
+                    <a href="/blank-apparel-accessories/jackets-s3669"
                       @click="
                       $store.header.sideMenuOpen = false;
-                      $store.header.megaMenu['jackets'] = true;
                     "
                       class="flex justify-between items-center font-semibold">
                       <span class="text-special">
                         Jackets
                       </span>
-                      <svg width="18" height="18" viewbox="0 0 24 24" fill="none" version="1.1" id="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
-                        <defs id="defs1"></defs>
-                        <g transform="rotate(270 12 12)">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M 4.7,7.4260677 V 11.798326 L 12.029996,16.573932 19.3,11.798326 V 7.4260677 l -7.270004,4.3722583 z" fill="#334EA1" id="path1" style="stroke-width:0.182956"></path>
-                        </g>
-                      </svg>
-                    </div>
+                    </a>
                   </li>
+
                   <li class="my-2">
 
-                    <div
+                    <a href="/blank-apparel-accessories/headwear-s2732"
                       @click="
                       $store.header.sideMenuOpen = false;
-                      $store.header.megaMenu['headwear'] = true;
                     "
                       class="flex justify-between items-center font-semibold">
                       <span class="text-special">
                         Headwear
                       </span>
-                      <svg width="18" height="18" viewbox="0 0 24 24" fill="none" version="1.1" id="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
-                        <defs id="defs1"></defs>
-                        <g transform="rotate(270 12 12)">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M 4.7,7.4260677 V 11.798326 L 12.029996,16.573932 19.3,11.798326 V 7.4260677 l -7.270004,4.3722583 z" fill="#334EA1" id="path1" style="stroke-width:0.182956"></path>
-                        </g>
-                      </svg>
-                    </div>
+                    </a>
                   </li>
-                  <li class="my-2">
 
-                    <div
+                  <li class="my-2">
+                    <a href="/blank-apparel-accessories/pants-shorts"
                       @click="
                       $store.header.sideMenuOpen = false;
-                      $store.header.megaMenu['pants_shorts'] = true;
                     "
                       class="flex justify-between items-center font-semibold">
                       <span class="text-special">
                         Pants &amp; Shorts
                       </span>
-                      <svg width="18" height="18" viewbox="0 0 24 24" fill="none" version="1.1" id="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
-                        <defs id="defs1"></defs>
-                        <g transform="rotate(270 12 12)">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M 4.7,7.4260677 V 11.798326 L 12.029996,16.573932 19.3,11.798326 V 7.4260677 l -7.270004,4.3722583 z" fill="#334EA1" id="path1" style="stroke-width:0.182956"></path>
-                        </g>
-                      </svg>
-                    </div>
-                  </li>
-
-
-                  <li class="my-2">
-
-                    <div
-                      @click="
-                      $store.header.sideMenuOpen = false;
-                      $store.header.megaMenu['promo_products'] = true;
-                    "
-                      class="flex justify-between items-center font-semibold">
-                      <span class="text-special">
-                        Promo Products
-                      </span>
-
-                      <svg width="18" height="18" viewbox="0 0 24 24" fill="none" version="1.1" id="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
-                        <defs id="defs1"></defs>
-                        <g transform="rotate(270 12 12)">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M 4.7,7.4260677 V 11.798326 L 12.029996,16.573932 19.3,11.798326 V 7.4260677 l -7.270004,4.3722583 z" fill="#334EA1" id="path1" style="stroke-width:0.182956"></path>
-                        </g>
-                      </svg>
-                    </div>
-                  </li>
-
-
-                  <li class="my-2">
-
-                    <a class="text-special font-semibold" href="/select/sale">
-                      Clearance
                     </a>
                   </li>
                 </ul>
-                <!-- <a class="btn- mx-0 mt-4 mb-4 px-10 flex justify-center items-center gradient-customize text-white" href="/customization">
-                  <span class="flex mr-3 edit-icon">
-                    <svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M4.36722 7.88537L7.88535 4.36723M18 18L15.0233 17.6693C14.6597 17.6289 14.4778 17.6086 14.3079 17.5536C14.1571 17.5048 14.0136 17.4358 13.8812 17.3486C13.7321 17.2502 13.6027 17.1209 13.344 16.8621L1.72863 5.24677C0.757123 4.27526 0.757122 2.70014 1.72863 1.72863C2.70013 0.757124 4.27525 0.757123 5.24676 1.72863L16.8621 13.344C17.1209 13.6027 17.2502 13.7321 17.3486 13.8812C17.4358 14.0136 17.5048 14.1571 17.5536 14.3079C17.6086 14.4778 17.6289 14.6597 17.6693 15.0233L18 18Z" stroke="white" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
-                    </svg>
-                  </span>
-                  Customization
-                </a> -->
-                <a rel="nofollow" class="btn- mx-0 mt-4 px-10 flex justify-center group items-center hover:!text-darker-blue !bg-[#E7F1FF] text-link" href="/order">
-                  <span class="flex mr-3 tracking-icon">
-                    <svg width="18" height="16" viewbox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M10.6667 3.83337H12.6144C12.8182 3.83337 12.9201 3.83337 13.016 3.8564C13.1011 3.87681 13.1824 3.91048 13.2569 3.95617C13.341 4.00771 13.4131 4.07977 13.5572 4.2239L16.9428 7.60952C17.087 7.75364 17.159 7.82571 17.2106 7.9098C17.2562 7.98436 17.2899 8.06565 17.3103 8.15068C17.3334 8.24659 17.3334 8.3485 17.3334 8.55233V10.9167C17.3334 11.305 17.3334 11.4991 17.2699 11.6523C17.1853 11.8565 17.0231 12.0187 16.8189 12.1033C16.6658 12.1667 16.4716 12.1667 16.0834 12.1667M11.9167 12.1667H10.6667M10.6667 12.1667V4.00004C10.6667 3.06662 10.6667 2.59991 10.485 2.24339C10.3252 1.92979 10.0703 1.67482 9.75667 1.51503C9.40015 1.33337 8.93344 1.33337 8.00002 1.33337H3.33335C2.39993 1.33337 1.93322 1.33337 1.5767 1.51503C1.2631 1.67482 1.00813 1.92979 0.848343 2.24339C0.666687 2.59991 0.666687 3.06662 0.666687 4.00004V10.5C0.666687 11.4205 1.41288 12.1667 2.33335 12.1667M10.6667 12.1667H7.33335M7.33335 12.1667C7.33335 13.5474 6.21407 14.6667 4.83335 14.6667C3.45264 14.6667 2.33335 13.5474 2.33335 12.1667M7.33335 12.1667C7.33335 10.786 6.21407 9.66671 4.83335 9.66671C3.45264 9.66671 2.33335 10.786 2.33335 12.1667M16.0834 12.5834C16.0834 13.734 15.1506 14.6667 14 14.6667C12.8494 14.6667 11.9167 13.734 11.9167 12.5834C11.9167 11.4328 12.8494 10.5 14 10.5C15.1506 10.5 16.0834 11.4328 16.0834 12.5834Z" stroke="#1170FF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="group-hover:stroke-darker-blue transition-all duration-300"></path>
-                    </svg>
-                  </span>
-                  <span>Track Order</span>
-                </a>
               </div>
 
               <hr class="!p-0 !m-0 horizontal-line">
 
               <div class="flex flex-col p-6">
-                <div class="flex flex-col" x-show="$store.profile.isLogged">
-                  <div class="flex my-2 text-purple-">
-                    <a rel="nofollow" class="flex items-center" href="javascript:;">
-                      <svg width="24" height="24" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M16.6668 17.5C16.6668 16.337 16.6668 15.7555 16.5233 15.2824C16.2001 14.217 15.3664 13.3834 14.3011 13.0602C13.828 12.9167 13.2465 12.9167 12.0835 12.9167H7.91683C6.75386 12.9167 6.17237 12.9167 5.69921 13.0602C4.63388 13.3834 3.8002 14.217 3.47703 15.2824C3.3335 15.7555 3.3335 16.337 3.3335 17.5M13.7502 6.25C13.7502 8.32107 12.0712 10 10.0002 10C7.92909 10 6.25016 8.32107 6.25016 6.25C6.25016 4.17893 7.92909 2.5 10.0002 2.5C12.0712 2.5 13.7502 4.17893 13.7502 6.25Z" stroke="#00228A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                      </svg>
-                      <span class="ml-3">My Account</span>
-                    </a>
-                  </div>
-                  <div class="flex my-2 text-purple-">
-                    <a rel="nofollow" class="flex items-center" href="/myaccount/carts">
-                      <svg width="24" height="24" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <g clip-path="url(#clip0_1104_12040)">
-                          <path d="M4.16662 12.25H15.1131C15.9571 12.25 16.3791 12.25 16.715 12.0848C17.011 11.9392 17.2597 11.7055 17.4301 11.4128C17.6236 11.0804 17.6702 10.64 17.7634 9.75921L18.2509 5.1523C18.2794 4.88327 18.2936 4.74876 18.2524 4.64464C18.2162 4.5532 18.1516 4.47735 18.069 4.42949C17.975 4.375 17.8461 4.375 17.5883 4.375H3.74995M1.6665 1.75H2.70687C2.92739 1.75 3.03765 1.75 3.12391 1.79403C3.19985 1.8328 3.26278 1.89488 3.30437 1.97204C3.3516 2.05969 3.35848 2.17524 3.37224 2.40634L4.12744 15.0937C4.14119 15.3248 4.14807 15.4403 4.19531 15.528C4.23689 15.6051 4.29982 15.6672 4.37576 15.706C4.46203 15.75 4.57229 15.75 4.7928 15.75H15.8332M6.24984 18.8125H6.25817M13.7498 18.8125H13.7582M6.6665 18.8125C6.6665 19.0541 6.47996 19.25 6.24984 19.25C6.01972 19.25 5.83317 19.0541 5.83317 18.8125C5.83317 18.5709 6.01972 18.375 6.24984 18.375C6.47996 18.375 6.6665 18.5709 6.6665 18.8125ZM14.1665 18.8125C14.1665 19.0541 13.98 19.25 13.7498 19.25C13.5197 19.25 13.3332 19.0541 13.3332 18.8125C13.3332 18.5709 13.5197 18.375 13.7498 18.375C13.98 18.375 14.1665 18.5709 14.1665 18.8125Z" stroke="#00228A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                        </g>
-                        <defs>
-                          <clipPath id="clip0_1104_12040">
-                            <rect fill="white" />
-                          </clipPath>
-                        </defs>
-                      </svg>
-                      <span class="ml-3">Carts</span>
-                    </a>
-                  </div>
-                  <div class="flex my-2 text-purple-">
-                    <a rel="nofollow" class="flex items-center" href="/myaccount/stock_notifications">
-                      <svg width="24" height="24" viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M6.86103 16.381H10.1944C10.1944 17.2714 9.44437 18 8.5277 18C7.61103 18 6.86103 17.2714 6.86103 16.381ZM16.0277 14.7619C16.09 15.0718 16.0277 15.5714 16.0277 15.5714H1.0277C1.0277 15.5714 0.965377 15.0718 1.0277 14.7619C1.20658 13.8723 2.69437 13.1429 2.69437 13.1429V8.28571C2.69437 5.77619 4.36103 3.59048 6.86103 2.8619V2.61905C6.86103 1.72857 7.61103 1 8.5277 1C9.44437 1 10.1944 1.72857 10.1944 2.61905V2.8619C12.6944 3.59048 14.361 5.77619 14.361 8.28571V13.1429C14.361 13.1429 15.8488 13.8723 16.0277 14.7619ZM12.6944 8.28571C12.6944 6.01905 10.861 4.2381 8.5277 4.2381C6.19437 4.2381 4.36103 6.01905 4.36103 8.28571V13.9524H12.6944V8.28571Z" fill="#00228A" stroke="#00228A" stroke-width="0.5" stroke-linejoin="round" />
-                      </svg>
-                      <span class="ml-3">Stock Notifications</span>
-                    </a>
-                  </div>
-                  <div class="flex my-2 text-purple-">
-                    <a rel="nofollow" class="flex items-center" href="/myaccount/wishlist">
-                      <svg width="24" height="24" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.99452 2.67663C7.39504 0.841742 4.7278 0.348162 2.72376 2.02837C0.719715 3.70858 0.437574 6.51781 2.01136 8.505C3.31985 10.1572 7.27982 13.6419 8.57768 14.7697C8.72288 14.8959 8.79549 14.959 8.88017 14.9838C8.95408 15.0054 9.03496 15.0054 9.10887 14.9838C9.19356 14.959 9.26616 14.8959 9.41136 14.7697C10.7092 13.6419 14.6692 10.1572 15.9777 8.505C17.5515 6.51781 17.3038 3.69091 15.2653 2.02837C13.2268 0.365836 10.594 0.841742 8.99452 2.67663Z" stroke="#00228A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                      </svg>
-                      <span class="ml-3">My Wishlist</span>
-                    </a>
-                  </div>
-                  <div class="flex my-2 text-purple-">
-                    <a rel="nofollow" class="flex items-center" href="/myaccount/loyalty_program">
-                      <svg width="24" height="24" viewBox="0 0 21 22" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <circle cx="10.5" cy="11" r="9.6" stroke="#00228A" stroke-width="1.8" />
-                        <path d="M10.4999 6.80078L11.3092 8.90492C11.4408 9.24709 11.5066 9.41818 11.609 9.56209C11.6997 9.68963 11.8111 9.80107 11.9386 9.89176C12.0825 9.99409 12.2536 10.0599 12.5958 10.1915L14.6999 11.0008L12.5958 11.8101C12.2536 11.9417 12.0825 12.0075 11.9386 12.1098C11.8111 12.2005 11.6997 12.3119 11.609 12.4395C11.5066 12.5834 11.4408 12.7545 11.3092 13.0966L10.4999 15.2008L9.69066 13.0966C9.55906 12.7545 9.49325 12.5834 9.39093 12.4395C9.30023 12.3119 9.1888 12.2005 9.06125 12.1098C8.91734 12.0075 8.74626 11.9417 8.40408 11.8101L6.29995 11.0008L8.40408 10.1915C8.74626 10.0599 8.91734 9.99409 9.06125 9.89176C9.1888 9.80107 9.30023 9.68963 9.39093 9.56209C9.49325 9.41818 9.55906 9.24709 9.69066 8.90492L10.4999 6.80078Z" fill="#00228A" stroke="#00228A" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" />
-                      </svg>
-                      <span class="ml-3">yourtagclothing+</span>
-                    </a>
-                  </div>
-                </div>
-
-                <div class="flex my-2 text-purple-">
-                  <a rel="nofollow" class="flex items-center" href="/coupon-codes">
-                    <svg width="24" height="24" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M8.75 6.66732V5.83398M8.75 10.4173V9.58398M8.75 14.1673V13.334M4.55 3.33398H16.45C17.4301 3.33398 17.9201 3.33398 18.2945 3.51564C18.6238 3.67543 18.8915 3.9304 19.0593 4.244C19.25 4.60052 19.25 5.06723 19.25 6.00065V7.08398C17.5586 7.08398 16.1875 8.38982 16.1875 10.0007C16.1875 11.6115 17.5586 12.9173 19.25 12.9173V14.0007C19.25 14.9341 19.25 15.4008 19.0593 15.7573C18.8915 16.0709 18.6238 16.3259 18.2945 16.4857C17.9201 16.6673 17.4301 16.6673 16.45 16.6673H4.55C3.56991 16.6673 3.07986 16.6673 2.70552 16.4857C2.37623 16.3259 2.10852 16.0709 1.94074 15.7573C1.75 15.4008 1.75 14.9341 1.75 14.0007V12.9173C3.44137 12.9173 4.8125 11.6115 4.8125 10.0007C4.8125 8.38982 3.44137 7.08398 1.75 7.08398V6.00065C1.75 5.06723 1.75 4.60052 1.94074 4.244C2.10852 3.9304 2.37623 3.67543 2.70552 3.51564C3.07986 3.33398 3.56991 3.33398 4.55 3.33398Z" stroke="#00228A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                    </svg>
-                    <span class="ml-3">Coupon Codes</span>
-                  </a>
-                </div>
-                <div class="flex my-2 text-purple-">
-                  <a rel="nofollow" class="flex items-center" href="/display/faq">
-                    <svg width="24" height="24" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <g clip-path="url(#clip0_1097_8671)">
-                        <path d="M7.57484 7.50002C7.77076 6.94308 8.15746 6.47344 8.66647 6.1743C9.17547 5.87515 9.77392 5.7658 10.3558 5.86561C10.9377 5.96543 11.4655 6.26796 11.8457 6.71963C12.226 7.1713 12.4341 7.74296 12.4332 8.33335C12.4332 10 9.93317 10.8334 9.93317 10.8334M9.99984 14.1667H10.0082M18.3332 10C18.3332 14.6024 14.6022 18.3334 9.99984 18.3334C5.39746 18.3334 1.6665 14.6024 1.6665 10C1.6665 5.39765 5.39746 1.66669 9.99984 1.66669C14.6022 1.66669 18.3332 5.39765 18.3332 10Z" stroke="#00228A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                      </g>
-                      <defs>
-                        <clipPath id="clip0_1097_8671">
-                          <rect width="24" height="24" fill="white" />
-                        </clipPath>
-                      </defs>
-                    </svg>
-                    <span class="ml-3">FAQ</span>
-                  </a>
-                </div>
-                <div class="flex my-2 text-purple-">
-                  <a rel="nofollow" class="flex items-center" href="/display/shipping_information">
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M14 7H16.3373C16.5818 7 16.7041 7 16.8192 7.02763C16.9213 7.05213 17.0188 7.09253 17.1083 7.14736C17.2092 7.2092 17.2957 7.29568 17.4686 7.46863L21.5314 11.5314C21.7043 11.7043 21.7908 11.7908 21.8526 11.8917C21.9075 11.9812 21.9479 12.0787 21.9724 12.1808C22 12.2959 22 12.4182 22 12.6627V15.5C22 15.9659 22 16.1989 21.9239 16.3827C21.8224 16.6277 21.6277 16.8224 21.3827 16.9239C21.1989 17 20.9659 17 20.5 17M15.5 17H14M14 17V7.2C14 6.0799 14 5.51984 13.782 5.09202C13.5903 4.71569 13.2843 4.40973 12.908 4.21799C12.4802 4 11.9201 4 10.8 4H5.2C4.0799 4 3.51984 4 3.09202 4.21799C2.71569 4.40973 2.40973 4.71569 2.21799 5.09202C2 5.51984 2 6.0799 2 7.2V15C2 16.1046 2.89543 17 4 17M14 17H10M10 17C10 18.6569 8.65685 20 7 20C5.34315 20 4 18.6569 4 17M10 17C10 15.3431 8.65685 14 7 14C5.34315 14 4 15.3431 4 17M20.5 17.5C20.5 18.8807 19.3807 20 18 20C16.6193 20 15.5 18.8807 15.5 17.5C15.5 16.1193 16.6193 15 18 15C19.3807 15 20.5 16.1193 20.5 17.5Z" stroke="#00228A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                    </svg>
-                    <span class="ml-3">Shipping Methods</span>
-                  </a>
-                </div>
                 <div class="flex my-2 text-purple-">
                   <a rel="nofollow" class="flex items-center" href="/display/contact">
                     <svg width="24" height="24" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1204,38 +983,8 @@
                     <span class="ml-3">Contact us</span>
                   </a>
                 </div>
-
-                <div class="flex my-2 text-purple-" x-show="$store.profile.isLogged">
-                  <a data-method="delete" rel="nofollow" class="flex items-center" onclick="resetCookies()" href="/logout">
-                    <svg width="24" height="24" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M12.75 3.55556L11.5515 4.80889L13.7445 7.11111H5.98889C5.49797 7.11111 5.1 7.50908 5.1 8C5.1 8.49092 5.49797 8.88889 5.98889 8.88889H13.7445L11.5515 11.1822L12.75 12.4444L17 8M1.7 1.77778H7.61111C8.10203 1.77778 8.5 1.37981 8.5 0.888889C8.5 0.397969 8.10203 0 7.61111 0H1.7C0.765 0 0 0.8 0 1.77778V14.2222C0 15.2 0.765 16 1.7 16H7.61111C8.10203 16 8.5 15.602 8.5 15.1111C8.5 14.6202 8.10203 14.2222 7.61111 14.2222H1.7V1.77778Z" fill="#00228A" />
-                    </svg>
-                    <span class="ml-3">Logout</span>
-                  </a>
-                </div>
-              </div>
-
-
-              <div class="flex p-6 bg-light-blue pb-16">
-                <!-- Country selector button -->
-                <button class="p-1 px-2 mr-4 list-none bg-white rounded-xl light-border border-all" @click="$store.header.sideMenuOpen = false; $store.header.countrySelectorOpen = true;">
-                  <a href="#" id="maincountry" title="Canada Wholesale Clothing" data-toggle="dropdown" class="dropdown-toggle">
-                    <div class="country-flag rounded-full aspect-square !w-6 fi fis fi-ca"></div>
-                    <span class="caret"></span>
-                  </a>
-                </button>
-
-                <!-- Language selector button -->
-                <button class="p-1 px-2 list-none bg-white rounded-xl light-border border-all" @click="$store.header.sideMenuOpen = false; $store.header.languageSelectorOpen = true;">
-                  <a href="#" title="en" id="mainlanguage" data-toggle="dropdown" class="dropdown-toggle">
-                    <span>EN</span>
-                    <span class="caret"></span>
-                  </a>
-                </button>
-
               </div>
             </div>
-
           </div>
         </div>
       </div>

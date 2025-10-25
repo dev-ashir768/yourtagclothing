@@ -108,7 +108,7 @@ include 'includes/header.php';
 
 
 
-          <nav class="relative rounded-xl border border-none light-border md:border-solid md:bg-[#FAFBFD] mr-12 min-w-[241px] w-[241px]"
+          <nav class="relative rounded-xl border border-none light-border md:border-solid md:bg-[#FAFBFD] mr-12 min-w-[241px] w-[241px] md:!block hidden"
             x-data="{}"
             data-base-url="/product"
             id="product-filters">
@@ -3717,11 +3717,6 @@ include 'includes/header.php';
 
 
           <div class="w-full md:!mr-0 !px-0">
-
-
-
-
-
             <h1 class="mt-3 mb-4 text-xl font-bold text-center md:text-left md:text-4xl text-dark-blue">Blank Apparel <span class="text-gray-500 font-normal">wholesale and retail</span> </h1>
 
 
@@ -8964,7 +8959,17 @@ include 'includes/header.php';
 
 
             <div class="pagination-container wordans-pagination pagination-footer">
-              <div role="navigation" aria-label="Pagination" class="pagination-new"><span class="previous_page disabled" aria-label="Previous page"><img class="previous-label-icon" alt="Previous" src="https://assets.wordans.ca/assets/wordans_2024/chevron_left-ec55170ac6eb8dd95bfc0172c65c4517b42222254c8087e00fb35e17106b6b6b.svg" /> Previous</span> <em class="current">1</em> <a rel="next" href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=2&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">2</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=3&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">3</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=4&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">4</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=5&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">5</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=6&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">6</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=7&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">7</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=8&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">8</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=9&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">9</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=10&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">10</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=20&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">20</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=30&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">30</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=40&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">40</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=47&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">47</a> <a class="next_page" aria-label="Next page" rel="next" href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=2&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">Next <img class="next-label-icon" alt="Next" src="https://assets.wordans.ca/assets/wordans_2024/chevron_right-88b7140327f3e7abe94fcc6199c61fac16ace4221cd57aab1d1b6fbe2bf2f58a.svg" /></a></div>
+              <div role="navigation" aria-label="Pagination" class="pagination-new"><span class="previous_page disabled" aria-label="Previous page"><img class="previous-label-icon" alt="Previous" src="https://assets.wordans.ca/assets/wordans_2024/chevron_left-ec55170ac6eb8dd95bfc0172c65c4517b42222254c8087e00fb35e17106b6b6b.svg" /> Previous</span> <em class="current">1</em> <a rel="next" href="javascript:;">2</a> <a href="javascript:;">3</a> <a href="javascript:;">4</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=5&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">5</a> <a href="/products?_kx=oOvHKmCIQKfoY9MogZh3Iq6wpsDeFhqQ3Y3Sd5Lk5-Q.RMfrwJ&amp;page=6&amp;test=&amp;utm_campaign=CA+-+EN+%2F+20%25+OFF+W3+%7C+CATALOG&amp;utm_klaviyo_id=01K5PWR9XFAY9A1N3TSGYY6ZYV&amp;utm_medium=email&amp;utm_source=Klaviyo">6</a>
+                <a href="javascript:;">7</a>
+                <a href="javascript:;">8</a>
+                <a href="javascript:;">9</a>
+                <a href="javascript:;">10</a>
+                <a href="javascript:;">20</a>
+                <a href="javascript:;">30</a>
+                <a href="javascript:;">40</a>
+                <a href="javascript:;">47</a>
+                <a class="next_page" aria-label="Next page" rel="next" href="javascript:;">Next <img class="next-label-icon" alt="Next" src="https://assets.wordans.ca/assets/wordans_2024/chevron_right-88b7140327f3e7abe94fcc6199c61fac16ace4221cd57aab1d1b6fbe2bf2f58a.svg" /></a>
+              </div>
             </div>
 
 
